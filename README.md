@@ -1,5 +1,5 @@
 # Desktop-Stream
-Btech Final Year Project - Desktop Stream 
+Btech Final Year Project - Desktop Stream user can get remote access of desktop via andriod phone
 
 Project Description:
 
